@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1490271974 source:c:\users\adi\documents\6 semestre\code blocs\cadena\main.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+
